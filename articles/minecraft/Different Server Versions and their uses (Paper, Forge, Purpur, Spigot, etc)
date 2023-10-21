@@ -1,0 +1,15 @@
+<h3>Opening</h3>
+<p>Depending on what Minecraft Server you're running, you'll certain version to achieve your goal. This guide will explain the difference between all the server versions and what they're used for.</p>
+<h3>PaperMC</h3>
+<p>Paper is by far one of the most popular MC Server Versions. Paper was created to fix game breaking bugs and tweak the game ever so slightly to make it run way better. Paper is useful for any server, it supports plugins and other gameplay tweaks, whilst improving performance. If you plan on playing with a few friends, starting an SMP or another single-lobby style server, PaperMC is perfect for you. </p>
+<h3>ForgeMC</h3>
+<p>ForgeMC is used for modded servers, if you want to play any Minecraft Mod or Modpack, Forge will be the Server Software you use. Suitable for Modded communities, Forge does not support plugins, and runs vanilla-style Minecraft, without Paper's enhancements. </p>
+<h3>Magma</h3>
+<p>Magma is a combination of PaperMC and ForgeMC. It gives you the ability to use plugins, whilst also being able to run mods. The only downside to Magma is it tends to cause issues with certain mods and requires extensive testing to make sure it works properly.</p>
+<h3>Velocity, Bungeecord, Waterfall, Travertine, Aegis, Flamecord and other proxies. </h3>
+<p>Proxy servers aren't necessarily played on. They route player connections to other servers, and act as a master server. Users connect to the proxy server, and the proxy server sends their connection over to the first specified server that the configuration specifies. They allow travel between servers. These are useful for large server networks that plan on having different servers for different gamemodes and other reasons. </p>
+<h3>PurPur</h3>
+<p>PurPur, much like Paper is a game-enhancing version of Minecraft. Unlike Paper, PurPur is aimed at actual gameplay enhancement, with a new lighting engine and code optimized to keep the server running as smoothly as possible. PurPur and Paper are the two options for Players interested in running a small community oriented server.</p>
+<h3>Other Builds</h3>
+<p>Not all Server Softwares are listed here as they are either pointless since other listed versions here offer better stability and support or we simply didn't think of including them. If you have any suggestions on versions to add here, let us know by joining our <a href="discord.civilhost.net" target="_blank" rel="noopener">discord server at https://discord.civilhost.net.</a></p>
+<p> </p>
