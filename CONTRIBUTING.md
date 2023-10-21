@@ -5,6 +5,7 @@ Below you can find out exactly how you're supposed to contribute articles.
 ### General
 
 - Article must be written in English, articles in other languages can be made, however there needs to be an english version of the article available.
+- Article must be about any Service we provide, whether it be Game, Web or VPS Hosting. 
 - You cannot re-submit any articles written by us, or another party. If you open a Pull Request with an article already written, it will be closed without warning.
 - You cannot use someone else's article, this is called plagarism and we will permanantly restrict you from creating any articles
 - Your article must provide value to the reader.
