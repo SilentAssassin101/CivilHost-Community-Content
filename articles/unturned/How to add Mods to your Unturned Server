@@ -1,0 +1,17 @@
+<p><strong>Adding Mods</strong> shouldn't be an issue or worry as it's super simple to do. After ordering your Unturned Server, you can add mods by going to the following file path:</p>
+<p> </p>
+<p>Container (File Manager Tab) &gt; Servers &gt; Default &gt; WorkshopDownloadConfig.json</p>
+<p> </p>
+<p>Inside this file will look something like this: </p>
+<p> </p>
+<p>{<br />"File_IDs": [<br />],<br />"Ignore_Children_File_IDs": [],<br />"Query_Cache_Max_Age_Seconds": 600,<br />"Max_Query_Retries": 2,<br />"Use_Cached_Downloads": true,<br />"Should_Monitor_Updates": true,<br />"Shutdown_Update_Detected_Timer": 600,<br />"Shutdown_Update_Detected_Message": "Workshop file update detected, shutdown in: {0}",<br />"Shutdown_Kick_Message": "Shutdown for Workshop file update."<br />}</p>
+<p> </p>
+<p>Inside the section that says "File_IDs":[] you will put your Mod ID's inside there. You can find Mod ID's inside the Steam Workshop's Link. EX: <a href="https://steamcommunity.com/workshop/filedetails/?id=2365700338">h</a>ttps://steamcommunity.com/workshop/filedetails/?id=<strong><em>2365700338</em></strong></p>
+<p>You can also input a collection ID inside the file for it to load the entire collection, meaning you won't have to manually copy-paste each mod ID into the file, you only have to put in one.</p>
+<p>Here's an example of what your WorkshopDownloadConfig.json might look like:</p>
+<p> </p>
+<p>{<br />"File_IDs": [<br />2998613613,</p>
+<p>1234835155,</p>
+<p>1245141414<br />],<br />"Ignore_Children_File_IDs": [],<br />"Query_Cache_Max_Age_Seconds": 600,<br />"Max_Query_Retries": 2,<br />"Use_Cached_Downloads": true,<br />"Should_Monitor_Updates": true,<br />"Shutdown_Update_Detected_Timer": 600,<br />"Shutdown_Update_Detected_Message": "Workshop file update detected, shutdown in: {0}",<br />"Shutdown_Kick_Message": "Shutdown for Workshop file update."<br />}</p>
+<p> </p>
+<p>When adding File ID's you need to put a comma after each ID <em><strong>except </strong></em>for the last ID. Afterward, restart your server and your mods will load!</p>
