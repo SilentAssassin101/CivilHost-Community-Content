@@ -19,11 +19,11 @@ After submitting a issue, we will review your article and make any comments. Aft
 
 ## Crediting
 
-- New Tutorials
+### New Tutorials
   New tutorials will be rewarded with up to $50 in Credits. The amount paid depends on how detailed and in-depth the article is
-- Updates
+### Updates
   Small updates will not be credited, major updates can recieve upwards of $25 in credit depending on how much content is added.
-- Requirements
+### Requirements
   In order to recieve credits, your account must have atleast ONE invoice.
 
 # How to contribute
